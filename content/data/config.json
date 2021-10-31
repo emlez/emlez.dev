@@ -20,7 +20,7 @@
             {
                 "label": "Blog",
                 "url": "/blog/",
-                "style": "button"
+                "style": "icon"
             },
             {
                 "label": "Style Guide",
