@@ -5,7 +5,9 @@ sections:
   - section_id: hero
     type: section_hero
     title: 'Hello, World! My name is Emilio Sánchez Ramírez'
-    content: "I am a frontend web developer ✌\U0001F3FC\nAlways learning JavaScript \U0001F49B\nAnd Platzi Master Student C8 \U0001F680\n"
+    content: >
+      I am a frontend web developer, in constant learning, and a Platzi Master
+      Student C8.
     actions:
       - label: Let's talk
         url: /contact
