@@ -5,9 +5,7 @@ sections:
   - section_id: hero
     type: section_hero
     title: 'Hello, World! My name is Emilio Sánchez Ramírez'
-    content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+    content: "I am a frontend web developer ✌\U0001F3FC\nAlways learning JavaScript \U0001F49B\nAnd Platzi Master Student C8 \U0001F680\n"
     actions:
       - label: Let's talk
         url: /contact
