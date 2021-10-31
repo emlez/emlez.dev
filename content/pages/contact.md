@@ -6,8 +6,8 @@ sections:
     type: section_form
     content: >
       Hi there! Thank you so much for your interest in working together. Please
-      fill the contact form below or send me an email at
-      \[emlez.dev@gmail.com]\(mailto:emlez.dev@gmail.com).
+      fill the contact form below or send us an email at
+      [example@example.com](mailto:emlez.dev@gmail.com).
     form_id: contactForm
     form_action: /thank-you
     form_fields:
