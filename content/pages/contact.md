@@ -34,6 +34,7 @@ sections:
         name: message
         label: Message
         default_value: Your message
+        is_required: true
       - input_type: checkbox
         name: consent
         label: >-
