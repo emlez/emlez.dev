@@ -65,7 +65,8 @@
                 "icon": "twitter",
                 "new_window": true
             }
-        ]
+        ],
+        "content": "Made with "
     },
     "domain": "https://emlez-df082.netlify.app"
 }
