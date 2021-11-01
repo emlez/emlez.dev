@@ -5,7 +5,7 @@
     "accent_color": "violet",
     "header": {
         "title": "emlez",
-        "has_nav": false,
+        "has_nav": true,
         "nav_links": [
             {
                 "label": "Home",
