@@ -29,7 +29,7 @@ sections:
           - Error on the site
           - Sponsorship
           - Other
-          - Job P
+          - Job proposal
       - input_type: textarea
         name: message
         label: Message
