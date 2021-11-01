@@ -30,6 +30,7 @@ sections:
           - Sponsorship
           - Error on the site
           - Other
+        is_required: true
       - input_type: textarea
         name: message
         label: Message
