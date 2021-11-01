@@ -26,10 +26,10 @@ sections:
         label: Subject
         default_value: Please select
         options:
+          - Job proposal
           - Error on the site
           - Sponsorship
           - Other
-          - Job proposal
       - input_type: textarea
         name: message
         label: Message
