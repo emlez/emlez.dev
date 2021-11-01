@@ -27,8 +27,8 @@ sections:
         default_value: Please select
         options:
           - Job proposal
-          - Error on the site
           - Sponsorship
+          - Error on the site
           - Other
       - input_type: textarea
         name: message
