@@ -2,7 +2,7 @@
 title: About me
 subtitle: This is a short page about who am I.
 image: /images/twitter.png
-image_alt: emlez web dev
+image_alt: 'emlez web developer '
 seo:
   title: About Us
   description: This is the about us page
