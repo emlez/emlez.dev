@@ -6,7 +6,7 @@ date: '2016-08-22'
 thumb_image: https://i.postimg.cc/L5Z1N47h/master-welcome.jpg
 image: https://i.postimg.cc/L5Z1N47h/master-welcome.jpg
 seo:
-  title: The Advantages and Disadvantages of Working from Home
+  title: My way to Platzi Master
   description: Interdum posuere lorem ipsum dolor sit amet consectetur
   extra:
     - name: 'og:type'
