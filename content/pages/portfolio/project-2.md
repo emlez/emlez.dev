@@ -16,7 +16,9 @@ seo:
       value: Batatabit Landing Page
       keyName: property
     - name: 'og:description'
-      value: This is the project 2 description
+      value: >-
+        This is the first Batatabit landing page designed by Platzi with a Figma
+        project
       keyName: property
     - name: 'og:image'
       value: /images/batata bit-19fa9119.png
