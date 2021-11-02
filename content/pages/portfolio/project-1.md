@@ -4,7 +4,7 @@ subtitle: A secret until we can announce it
 date: '2021-09-27'
 thumb_image: /images/Practical-JavaScript.png
 thumb_image_alt: Abstract image for JavaScript math project.
-image: /images/Practical-JavaScript.png
+image: /images/Platzi Master.jpg
 seo:
   title: Project Title 1
   description: This is the project 1 description
