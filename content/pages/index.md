@@ -55,7 +55,7 @@ sections:
             url: 'https://platzi.com/p/emlez/curso/1557-git-github/diploma/detalle/'
             style: button
             icon: dribbble
-            new_window: false
+            new_window: true
             no_follow: false
       - title: Service Title
         content: >-
