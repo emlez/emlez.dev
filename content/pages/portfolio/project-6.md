@@ -1,6 +1,6 @@
 ---
 title: emlez.dev
-subtitle: Optional Project Subtitle
+subtitle: 'My '
 date: '2021-10-25'
 thumb_image: /images/twitter.png
 thumb_image_alt: A handheld game console on a yellow background
