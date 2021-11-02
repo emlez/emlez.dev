@@ -3,7 +3,7 @@ title: "Graphing Calculator \U0001F4CA"
 subtitle: A graphing calculator made with JavaScript & Chart.js
 date: '2021-10-17'
 thumb_image: /images/graphing.png
-thumb_image_alt: A pair of illustrated people making charts.
+thumb_image_alt: A pair of illustrated people making bar charts.
 image: images/5.jpg
 image_alt: A white gamepad on a green background
 seo:
