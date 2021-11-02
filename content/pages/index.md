@@ -57,8 +57,7 @@ sections:
             icon: dribbble
             new_window: true
             no_follow: false
-      - title: Soft Skills
-        content: >-
+      - content: >-
           Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
           convallis, interdum ligula vel, pretium diam. Integer commodo sem at
           dui sollicitudin.
