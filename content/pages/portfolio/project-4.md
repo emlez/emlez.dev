@@ -2,7 +2,6 @@
 title: "Practical JS \U0001F49B"
 date: '2021-09-27'
 thumb_image: /images/Practical-JavaScript.png
-thumb_image_alt: JavaScript logo with a browser on the side with brackets in it.
 image: /images/Practical-JS.jpeg
 image_alt: JavaScript logo with a browser on the side with brackets in it.
 seo:
