@@ -28,7 +28,7 @@ seo:
     - name: 'twitter:title'
       value: emlez.dev website
     - name: 'twitter:description'
-      value: This is the project 6 description
+      value: This is the emlez.dev website
     - name: 'twitter:image'
       value: /images/emlez-preview.png
       relativeUrl: true
