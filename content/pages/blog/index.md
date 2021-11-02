@@ -17,7 +17,7 @@ seo:
       value: This is the blog page
       keyName: property
     - name: 'og:image'
-      value: /images/twitter.png
+      value: /images/emlez logo.png
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
