@@ -4,7 +4,7 @@ subtitle: A series of projects in JavaScript
 date: '2021-09-27'
 thumb_image: /images/Practical-JavaScript.png
 thumb_image_alt: Abstract image for JavaScript math project.
-image: images/1.jpg
+image: /images/Practical-JavaScript.png
 image_alt: 'White, black, and red shoe sole'
 seo:
   title: Project Title 1
