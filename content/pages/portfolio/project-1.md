@@ -1,6 +1,6 @@
 ---
 title: Platzi Master Secret Project
-subtitle: A series of projects in JavaScript
+subtitle: A secret until we can announce it
 date: '2021-09-27'
 thumb_image: /images/Practical-JavaScript.png
 thumb_image_alt: Abstract image for JavaScript math project.
