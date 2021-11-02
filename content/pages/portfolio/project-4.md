@@ -3,7 +3,6 @@ title: "Practical JS \U0001F49B"
 date: '2021-09-27'
 thumb_image: /images/Practical-JavaScript.png
 image: /images/Practical-JS.jpeg
-image_alt: JavaScript logo with a browser on the side with brackets in it.
 seo:
   title: Project Title 4
   description: This is the project 4 description
