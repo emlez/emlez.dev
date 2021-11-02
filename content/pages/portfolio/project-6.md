@@ -5,7 +5,7 @@ date: '2021-10-25'
 thumb_image: /images/twitter.png
 thumb_image_alt: emlez.dev logo with the web developer title.
 image: /images/twitter.png
-image_alt: A handheld game console on a yellow background
+image_alt: 'emlez.dev '
 seo:
   title: Project Title 6
   description: This is the project 6 description
