@@ -29,7 +29,7 @@ seo:
     - name: 'twitter:description'
       value: This is the project 1 description
     - name: 'twitter:image'
-      value: images/1.jpg
+      value: /images/Platzi-Master.jpg
       relativeUrl: true
 layout: project
 image_alt: Platzi Master banner with an illustration of a pair of hands holding a resume.
