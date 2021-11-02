@@ -28,10 +28,10 @@ sections:
     is_numbered: true
     grid_items:
       - title: HTML & CSS
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: >
+          I've been following the Web Development School learning path at
+          Platzi, and from its past a hundred courses (I've taken almost 80) I
+          have been able to learn the fundamentals of HTML & CSS.
       - title: Service Title
         content: >-
           Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
