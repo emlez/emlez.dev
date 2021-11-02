@@ -1,7 +1,7 @@
 ---
 title: Practical JavaScript
 subtitle: A series of projects in JavaScript
-date: '0002-09-27'
+date: '2021-09-24'
 thumb_image: /images/Practical-JavaScript.png
 thumb_image_alt: 'White, black, and red shoe sole'
 image: images/1.jpg
