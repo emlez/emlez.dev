@@ -33,7 +33,7 @@ sections:
           Platzi, and from its past a hundred courses (I've taken almost 80) I
           have been able to learn the fundamentals of HTML & CSS.
         actions:
-          - label: lorem-ipsum
+          - label: Certifications
             url: '#'
             style: link
             icon: dribbble
