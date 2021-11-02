@@ -16,7 +16,7 @@ seo:
       value: My way to Platzi Master
       keyName: property
     - name: 'og:description'
-      value: Interdum posuere lorem ipsum dolor sit amet consectetur
+      value: How I entered the Platzi Master program
       keyName: property
     - name: 'og:image'
       value: images/9.jpg
