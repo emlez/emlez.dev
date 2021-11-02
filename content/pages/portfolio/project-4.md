@@ -4,7 +4,7 @@ date: '2021-09-27'
 thumb_image: /images/Practical-JavaScript.png
 image: /images/practical js.png
 seo:
-  title: Project Title 4
+  title: Practical JavaScript
   description: This is the project 4 description
   extra:
     - name: 'og:type'
