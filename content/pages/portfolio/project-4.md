@@ -42,8 +42,6 @@ Practical JavaScript is a series of projects by [Platzi's JavaScript School](htt
 
 3.  Third Workshop: Mean, Median and mode ➗ 💛
 
-4.  Fourth Workshop: Wages Anal
+4.  Fourth Workshop: Wages Analysis 
 
-> [Here you can try it for yourself](https://emlez.github.io/Practical-JS/)
->
-> .
+> [Here you can try it for yourself](https://emlez.github.io/Practical-JS/).
