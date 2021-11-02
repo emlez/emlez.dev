@@ -28,7 +28,7 @@ seo:
     - name: 'twitter:title'
       value: Graphing Calculator
     - name: 'twitter:description'
-      value: This is the project 5 description
+      value: This is my solution to a graphing calculator with JavaScript
     - name: 'twitter:image'
       value: /images/graphing.png
       relativeUrl: true
