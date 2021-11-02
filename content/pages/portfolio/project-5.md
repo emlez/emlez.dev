@@ -14,7 +14,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Project Title 5
+      value: Graphing Calculator
       keyName: property
     - name: 'og:description'
       value: This is the project 5 description
