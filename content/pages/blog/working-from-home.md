@@ -3,7 +3,7 @@ title: My way to Platzi Master
 excerpt: >-
   The beginning of an experience I will never forget
 date: '2016-08-22'
-thumb_image: /images/master-welcome.jpg
+thumb_image: images/master-welcome.jpg
 image: images/master-welcome.jpg
 seo:
   title: My way to Platzi Master
