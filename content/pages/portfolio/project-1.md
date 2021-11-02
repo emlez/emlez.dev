@@ -2,7 +2,7 @@
 title: Platzi Master Secret Project
 subtitle: A secret until we can announce it
 date: '2021-09-27'
-thumb_image: /images/Practical-JavaScript.png
+thumb_image: /images/Platzi Master.jpg
 thumb_image_alt: Abstract image for JavaScript math project.
 image: /images/Platzi Master.jpg
 seo:
