@@ -10,7 +10,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Portfolio
+      value: Emilio Sánchez Ramírez | Portfolio
       keyName: property
     - name: 'og:description'
       value: This is the portfolio page
