@@ -72,7 +72,7 @@ sections:
     type: section_posts
     title: Latest from the Blog
     subtitle: 'Thoughts, tips and insights'
-    posts_number: 1
+    posts_number: 3
     col_number: three
     actions:
       - label: View Blog
