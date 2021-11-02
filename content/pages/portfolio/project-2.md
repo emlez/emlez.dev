@@ -1,5 +1,5 @@
 ---
-title: Batatabit
+title: 'Batatabit '
 date: '2021-09-09'
 thumb_image: /images/batata bit.png
 thumb_image_alt: Orange staircase going up.
