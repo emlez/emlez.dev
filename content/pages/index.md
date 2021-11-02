@@ -80,7 +80,7 @@ sections:
         style: button
 seo:
   title: Emilio Sánchez Ramírez website - emlez.dev
-  description: The preview of the Exto theme
+  description: emlez.dev professional website
   extra:
     - name: 'og:type'
       value: website
