@@ -4,7 +4,7 @@ date: '2021-09-27'
 thumb_image: /images/Practical-JS.jpeg
 thumb_image_alt: JavaScript logo with a browser on the side with brackets in it.
 image: /images/Practical-JS.jpeg
-image_alt: A table tennis racket on a pink background
+image_alt: JavaScript logo with a browser on the side with brackets in it.
 seo:
   title: Project Title 4
   description: This is the project 4 description
