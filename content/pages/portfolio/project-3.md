@@ -7,7 +7,7 @@ thumb_image_alt: Three illustrated people browsing the web.
 image: /images/platzi video.png
 image_alt: Three illustrated people browsing the web.
 seo:
-  title: Project Title 3
+  title: Platzi Video
   description: This is the project 3 description
   extra:
     - name: 'og:type'
