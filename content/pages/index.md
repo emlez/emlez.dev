@@ -23,7 +23,7 @@ sections:
   - section_id: services
     type: section_grid
     title: My Stack
-    subtitle: An optional subtitle of the section
+    subtitle: The technologies I use the most
     col_number: two
     is_numbered: true
     grid_items:
