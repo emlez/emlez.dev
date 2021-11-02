@@ -19,7 +19,7 @@ seo:
       value: How I entered the Platzi Master program
       keyName: property
     - name: 'og:image'
-      value: https://i.postimg.cc/L5Z1N47h/master-welcome.jpg
+      value: /images/master-welcome.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
