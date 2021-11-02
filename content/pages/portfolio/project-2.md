@@ -1,6 +1,6 @@
 ---
 title: "Batatabit \U0001F954"
-date: '2021-09-09'
+date: '2021-09-02'
 thumb_image: /images/batata bit-19fa9119.png
 thumb_image_alt: Orange staircase going up.
 image: /images/batata bit-19fa9119.png
