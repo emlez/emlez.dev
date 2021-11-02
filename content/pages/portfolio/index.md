@@ -1,6 +1,6 @@
 ---
 title: Portfolio
-subtitle: Here are my projects as a web developer.
+subtitle: Here are my projects as a web developer
 layout_style: mosaic
 seo:
   title: Emilio Sánchez Ramírez | Portfolio
