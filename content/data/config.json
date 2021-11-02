@@ -1,7 +1,7 @@
 {
     "title": "emlez.dev",
     "path_prefix": "/",
-    "color_scheme": "light",
+    "color_scheme": "dark",
     "accent_color": "pink",
     "header": {
         "title": "emlez",
