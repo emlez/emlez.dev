@@ -2,7 +2,7 @@
 title: Project Title 6
 subtitle: Optional Project Subtitle
 date: '2021-10-25'
-thumb_image: /images/emlez logo.png
+thumb_image: /images/twitter.png
 thumb_image_alt: A handheld game console on a yellow background
 image: images/6.jpg
 image_alt: A handheld game console on a yellow background
