@@ -2,7 +2,7 @@
 title: "Platzi Video \U0001F4FC"
 subtitle: A video site to sharpen my CSS skills
 date: '2021-09-05'
-thumb_image: images/3_thumb.jpg
+thumb_image: /images/platzi video.png
 thumb_image_alt: A yellow retro telephone on a yellow background
 image: images/3.jpg
 image_alt: A yellow retro telephone on a yellow background
