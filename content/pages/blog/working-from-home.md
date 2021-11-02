@@ -7,7 +7,7 @@ thumb_image: https://i.postimg.cc/L5Z1N47h/master-welcome.jpg
 image: https://i.postimg.cc/L5Z1N47h/master-welcome.jpg
 seo:
   title: My way to Platzi Master
-  description: Interdum posuere lorem ipsum dolor sit amet consectetur
+  description: How I 
   extra:
     - name: 'og:type'
       value: article
