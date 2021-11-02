@@ -51,7 +51,7 @@ sections:
           control tools, and that's why I've been sharpening my Git skills even
           though an IDE makes it easier than ever to get started.
         actions:
-          - label: lorem-ipsum
+          - label: Git Certification
             url: '#'
             style: link
             icon: dribbble
