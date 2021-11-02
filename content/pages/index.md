@@ -57,10 +57,16 @@ sections:
             icon: dribbble
             new_window: true
             no_follow: false
-      - content: >-
-          Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
-          convallis, interdum ligula vel, pretium diam. Integer commodo sem at
-          dui sollicitudin.
+      - content: >
+          JS is not my first ever programming language, but it's definitely the
+          one I've spent the most time with.
+
+
+          > Try, fail, learn, refine. 
+
+
+          That's probably the best way to describe my journey, and the greatest
+          thing is that I can always keep on learning.
         title: JavaScript
       - title: Service title
         content: >-
