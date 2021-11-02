@@ -62,11 +62,12 @@ sections:
           one I've spent the most time with.
 
 
-          > Try, fail, learn, refine. 
+          > Try, fail, learn, refine.
 
 
           That's probably the best way to describe my journey, and the greatest
-          thing is that I can always keep on learning.
+          thing is that I can always keep on learning because of how inmense
+          this technology is.
         title: JavaScript
       - title: Service title
         content: >-
