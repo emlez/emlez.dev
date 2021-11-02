@@ -7,7 +7,9 @@ image: /images/batata bit-19fa9119.png
 image_alt: Orange staircase going up.
 seo:
   title: Project Title 2
-  description: This is the project 2 description
+  description: >-
+    This is the first Batatabit landing page designed by Platzi with a Figma
+    project
   extra:
     - name: 'og:type'
       value: website
