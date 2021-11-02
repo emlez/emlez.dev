@@ -1,6 +1,6 @@
 ---
 title: Practical JavaScript
-subtitle: 'A series of '
+subtitle: A series of projects in JavaScript
 date: '2019-05-10'
 thumb_image: /images/Practical-JavaScript.png
 thumb_image_alt: 'White, black, and red shoe sole'
