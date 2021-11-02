@@ -4,7 +4,7 @@ excerpt: >-
   Interdum posuere lorem ipsum dolor sit amet consectetur. Odio morbi quis
   commodo odio aenean sed adipiscing diam donec. Vitae congue mauris rhoncus
   aenean vel elit.
-date: '2016-01-01'
+date: '0001-11-01'
 thumb_image: images/9_thumb.jpg
 image: images/9.jpg
 seo:
