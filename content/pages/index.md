@@ -34,7 +34,7 @@ sections:
           have been able to learn the fundamentals of HTML & CSS.
         actions:
           - label: Certifications
-            url: '#'
+            url: 'https://platzi.com/p/emlez/'
             style: link
             icon: dribbble
             new_window: false
