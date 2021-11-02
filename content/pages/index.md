@@ -70,9 +70,10 @@ sections:
           this technology is.
         title: JavaScript
       - title: SCRUM
-        content: >-
-          Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
-          nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
+        content: >
+          I've been given the opportunity to work with graphic designers, data
+          analysts, backend and frontend developers for a major web project, and
+          I don't think I can make it without an agile methodology like SCRUM.
   - section_id: testimonials
     type: section_testimonials
     title: Testimonials
