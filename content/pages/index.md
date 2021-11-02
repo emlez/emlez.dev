@@ -80,7 +80,7 @@ sections:
         style: button
 seo:
   title: Emilio Sánchez Ramírez website | emlez.dev
-  description: emlez.dev professional website
+  description: Emilio Sánchez Ramírez or emlez professional website
   extra:
     - name: 'og:type'
       value: website
