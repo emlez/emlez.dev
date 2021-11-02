@@ -34,7 +34,7 @@ seo:
 layout: project
 subtitle: A series of projects in JavaScript
 ---
-Practical JavaScript is a series of projects by [Platzi's JavaScript School](https://platzi.com/escuela-javascript/), where we apply JavaScript to solve several programming challenges, using only Vanilla JavaScript.
+**Practical JavaScript** is a series of projects by [Platzi's JavaScript School](https://platzi.com/escuela-javascript/), where we apply JavaScript to solve several challenges and try different kinds of calculations, using only Vanilla JavaScript.
 
 1.  First Workshop: Geometric Figures 🟨 🟡
 
@@ -42,6 +42,8 @@ Practical JavaScript is a series of projects by [Platzi's JavaScript School](htt
 
 3.  Third Workshop: Mean, Median and mode ➗ 💛
 
-4.  Fourth Workshop: Wages Analysis 
+4.  Fourth Workshop: Wages Analysis
 
-> [Here you can try it for yourself](https://emlez.github.io/Practical-JS/).
+> [Here you can try it for yourself](https://emlez.github.io/Practical-JS/)
+>
+> .
