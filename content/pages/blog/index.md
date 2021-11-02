@@ -11,7 +11,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Blog
+      value: Emilio Sánchez Ramírez | Blog
       keyName: property
     - name: 'og:description'
       value: This is the blog page
