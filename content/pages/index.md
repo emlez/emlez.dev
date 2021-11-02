@@ -92,7 +92,7 @@ seo:
       value: 'Emilio Sánchez Ramírez or emlez, professional website'
       keyName: property
     - name: 'og:image'
-      value: /images/twitter.png
+      value: /images/emlez-preview.png
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
