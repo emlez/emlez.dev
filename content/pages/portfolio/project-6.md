@@ -1,7 +1,7 @@
 ---
 title: Project Title 6
 subtitle: Optional Project Subtitle
-date: '2018-12-18'
+date: '0002-12-18'
 thumb_image: /images/emlez logo.png
 thumb_image_alt: A handheld game console on a yellow background
 image: images/6.jpg
