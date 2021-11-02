@@ -27,7 +27,7 @@ seo:
     - name: 'twitter:title'
       value: Platzi Master Project C8
     - name: 'twitter:description'
-      value: This is the project 1 description
+      value: This is a project made with Platzi Master
     - name: 'twitter:image'
       value: /images/Platzi-Master.jpg
       relativeUrl: true
