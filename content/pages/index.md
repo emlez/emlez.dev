@@ -89,7 +89,7 @@ seo:
       value: Emilio Sánchez Ramírez | emlez.dev
       keyName: property
     - name: 'og:description'
-      value: The preview of the Exto theme
+      value: 'Emilio Sánchez Ramírez or emlez, professional website'
       keyName: property
     - name: 'og:image'
       value: /images/twitter.png
