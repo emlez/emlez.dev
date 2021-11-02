@@ -1,6 +1,6 @@
 ---
 title: emlez.dev
-subtitle: 'My '
+subtitle: My personal website
 date: '2021-10-25'
 thumb_image: /images/twitter.png
 thumb_image_alt: A handheld game console on a yellow background
