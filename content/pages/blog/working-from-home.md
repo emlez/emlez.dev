@@ -13,7 +13,7 @@ seo:
       value: article
       keyName: property
     - name: 'og:title'
-      value: The Advantages and Disadvantages of Working from Home
+      value: My way to Platzi Master
       keyName: property
     - name: 'og:description'
       value: Interdum posuere lorem ipsum dolor sit amet consectetur
