@@ -1,6 +1,6 @@
 ---
 title: "Graphing Calculator \U0001F4CA"
-subtitle: Optional Project Subtitle
+subtitle: A graphing calculator made with JavaScript
 date: '2019-01-05'
 thumb_image: /images/graphing.png
 thumb_image_alt: A white gamepad on a green background
