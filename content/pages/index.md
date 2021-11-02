@@ -71,7 +71,7 @@ sections:
   - section_id: latest-posts
     type: section_posts
     title: Latest from the Blog
-    subtitle: Thoughts, tips and insights
+    subtitle: 'Thoughts, tips and insights'
     posts_number: 3
     col_number: three
     actions:
@@ -79,7 +79,7 @@ sections:
         url: blog
         style: button
 seo:
-  title: Stackbit Exto Theme
+  title: Emilio Sánchez Ramírez website - emlez.dev
   description: The preview of the Exto theme
   extra:
     - name: 'og:type'
