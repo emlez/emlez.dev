@@ -14,7 +14,7 @@ seo:
       value: Practical JavaScript
       keyName: property
     - name: 'og:description'
-      value: This is the project 4 description
+      value: This is my take on four math workshops using JavaScript
       keyName: property
     - name: 'og:image'
       value: /images/Practical-JavaScript.png
