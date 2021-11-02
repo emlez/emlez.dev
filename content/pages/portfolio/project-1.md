@@ -36,7 +36,7 @@ image_alt: Platzi Master banner with an illustration of a pair of hands holding 
 ---
 **Platzi Master** is an online education program aimed at technical deepening and professional growth in software development.
 
-During 5 months of immersed training in five different parallel scenarios of comprehensive training that include English, professional growth, product development with software, technical leadership and tech community. 
+During 5 months of immersed training in five different parallel scenarios of comprehensive training that include English, professional growth, product development with software, technical leadership and tech community.
 
 Additionally, receiving feedback on my process through interviews and technical tests led by Platzi Master team of experts.
 
@@ -44,4 +44,4 @@ About the secret project, I can't say a thing yet...
 
 But the resume/CV in the image isn't there just because.
 
-
+\*wink, wink\*
