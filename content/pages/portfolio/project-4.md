@@ -1,6 +1,6 @@
 ---
 title: "Practical JS \U0001F49B"
-date: '2021-09-07'
+date: '2021-09-02'
 thumb_image: /images/Practical-JS.jpeg
 thumb_image_alt: A table tennis racket on a pink background
 image: images/4.jpg
