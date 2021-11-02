@@ -31,6 +31,7 @@ seo:
       relativeUrl: true
 layout: project
 subtitle: A series of projects in JavaScript
+thumb_image_alt: Abstract image for JavaScript math project.
 ---
 **Practical JavaScript** is a series of projects by [Platzi's JavaScript School](https://platzi.com/escuela-javascript/), where we apply JavaScript to solve several challenges and try different kinds of calculations, using only Vanilla JavaScript.
 
