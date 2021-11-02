@@ -35,7 +35,7 @@ sections:
         actions:
           - label: Certifications
             url: 'https://platzi.com/p/emlez/'
-            style: link
+            style: button
             icon: dribbble
             new_window: false
             no_follow: false
