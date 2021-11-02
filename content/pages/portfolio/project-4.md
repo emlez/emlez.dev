@@ -25,7 +25,7 @@ seo:
     - name: 'twitter:title'
       value: Project Title 4
     - name: 'twitter:description'
-      value: This is the project 4 description
+      value: This is my take on four math workshops using JavaScript
     - name: 'twitter:image'
       value: /images/Practical-JavaScript.png
       relativeUrl: true
