@@ -1,7 +1,7 @@
 ---
 title: "Graphing Calculator \U0001F4CA"
 subtitle: A graphing calculator made with JavaScript & Chart.js
-date: '2021-01-17'
+date: '2021-10-17'
 thumb_image: /images/graphing.png
 thumb_image_alt: A white gamepad on a green background
 image: images/5.jpg
