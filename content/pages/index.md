@@ -32,6 +32,13 @@ sections:
           I've been following the Web Development School learning path at
           Platzi, and from its past a hundred courses (I've taken almost 80) I
           have been able to learn the fundamentals of HTML & CSS.
+        actions:
+          - label: lorem-ipsum
+            url: '#'
+            style: link
+            icon: dribbble
+            new_window: false
+            no_follow: false
       - title: Service Title
         content: >-
           Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
