@@ -52,7 +52,7 @@ sections:
           though an IDE makes it easier than ever to get started.
         actions:
           - label: Git Certification
-            url: '#'
+            url: 'https://platzi.com/p/emlez/curso/1557-git-github/diploma/detalle/'
             style: link
             icon: dribbble
             new_window: false
