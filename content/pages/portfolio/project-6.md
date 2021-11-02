@@ -14,7 +14,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: emlez.dev webpage
+      value: emlez.dev website
       keyName: property
     - name: 'og:description'
       value: This is the emlez.dev website
