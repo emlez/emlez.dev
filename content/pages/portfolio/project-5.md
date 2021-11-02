@@ -17,7 +17,7 @@ seo:
       value: Graphing Calculator
       keyName: property
     - name: 'og:description'
-      value: This is the project 5 description
+      value: This is my solution to a graphing calculator with JavaScript
       keyName: property
     - name: 'og:image'
       value: /images/graphing.png
