@@ -51,7 +51,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Contact
+      value: Emilio Sánchez Ramírez | Contact
       keyName: property
     - name: 'og:description'
       value: This is the contact page
