@@ -34,12 +34,22 @@ seo:
       relativeUrl: true
 layout: project
 ---
+This challenge was part of a technical test for **Platzi Master** where I had to make a graph from two parameters that you receive by inputs from the user as follows: 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Nulla facilisi morbi tempus iaculis urna. Non curabitur gravida arcu ac tortor dignissim. Pretium quam vulputate dignissim suspendisse in est. Ante in nibh mauris cursus mattis. Adipiscing bibendum est ultricies integer quis auctor elit sed vulputate. Facilisi nullam vehicula ipsum a arcu cursus. Habitant morbi tristique senectus et. Urna duis convallis convallis tellus id interdum velit. Sociis natoque penatibus et magnis. Adipiscing tristique risus nec feugiat in fermentum posuere.
+1.  Enter X-axis value.
 
->"You can't use up creativity. The more you use, the more you have." - Maya Angelou
+2.  Enter Y-axis value.
 
-Feugiat in fermentum posuere urna nec tincidunt praesent semper. Bibendum enim facilisis gravida neque convallis a. Diam donec adipiscing tristique risus nec feugiat in fermentum. Vitae suscipit tellus mauris a diam. Sit amet aliquam id diam maecenas. Id velit ut tortor pretium viverra suspendisse. Massa tincidunt dui ut ornare lectus sit amet est. Dui vivamus arcu felis bibendum ut tristique et egestas quis. Purus sit amet volutpat consequat mauris nunc congue nisi. Et netus et malesuada fames ac. Sed faucibus turpis in eu. Pharetra pharetra massa massa ultricies. Non enim praesent elementum facilisis leo vel fringilla est ullamcorper. Quis hendrerit dolor magna eget est.
+3.  Show point in a visual Cartesian plane where the location given by the Axes. 
 
-Elit pellentesque habitant morbi tristique senectus et netus et. Cras adipiscing enim eu turpis egestas pretium aenean pharetra magna. Turpis egestas pretium aenean pharetra magna ac placerat. Suspendisse sed nisi lacus sed viverra tellus in. Lectus arcu bibendum at varius vel pharetra vel turpis. Scelerisque eleifend donec pretium vulputate sapien nec sagittis aliquam malesuada. Donec pretium vulputate sapien nec sagittis. Ipsum a arcu cursus vitae congue mauris rhoncus aenean. Sed euismod nisi porta lorem. Semper quis lectus nulla at. Tincidunt ornare massa eget egestas purus viverra accumsan in nisl. Eu tincidunt tortor aliquam nulla facilisi cras fermentum odio eu. Aliquam sem et tortor consequat id porta. Aliquam ut porttitor leo a diam sollicitudin tempor id eu. Ipsum dolor sit amet consectetur adipiscing elit.
+Additionally, the user can create a static bar chart of 5 series in X: 
 
+1.  Enter 5 sets of values for \[x,y] 
+
+2.  Show bar chart with the values that were provided in the previous step. 
+
+3.  The user will be able to delete everything and start over with other values as many times as possible Want. Values and graphs should not be stored.
+
+I used a JavaScript library, called [Chart.js](https://www.chartjs.org/), to be able to create a chart from JavaScript using a canva element in HTML.
+
+> [You can see it live in here.](https://emlez.github.io/Graphing-in-JS/)
