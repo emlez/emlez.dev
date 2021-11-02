@@ -71,38 +71,38 @@ sections:
   - section_id: latest-posts
     type: section_posts
     title: Latest from the Blog
-    subtitle: Thoughts, tips and insights
+    subtitle: 'Thoughts, tips and insights'
     posts_number: 3
-    col_number: three
+    col_number: two
     actions:
       - label: View Blog
         url: blog
         style: button
 seo:
-  title: Stackbit Exto Theme
-  description: The preview of the Exto theme
+  title: Emilio Sánchez Ramírez | emlez.dev
+  description: Emilio Sánchez Ramírez or emlez professional website
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Stackbit Exto Theme
+      value: Emilio Sánchez Ramírez | emlez.dev
       keyName: property
     - name: 'og:description'
-      value: The preview of the Exto theme
+      value: Emilio Sánchez Ramírez or emlez professional website
       keyName: property
     - name: 'og:image'
-      value: images/exto_preview.png
+      value: /images/emlez-preview.png
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Stackbit Exto Theme
+      value: Emilio Sánchez Ramírez | emlez.dev
     - name: 'twitter:description'
-      value: The preview of the Exto theme
+      value: Emilio Sánchez Ramírez or emlez professional website
     - name: 'twitter:image'
-      value: images/exto_preview.png
+      value: /images/emlez-preview.png
       relativeUrl: true
 layout: advanced
 ---

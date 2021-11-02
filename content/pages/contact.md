@@ -44,14 +44,14 @@ sections:
         is_required: true
     submit_label: Send Message
 seo:
-  title: Contact
+  title: Emilio Sánchez Ramírez | Contact
   description: This is the contact page
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Contact
+      value: Emilio Sánchez Ramírez | Contact
       keyName: property
     - name: 'og:description'
       value: This is the contact page
@@ -59,8 +59,12 @@ seo:
     - name: 'twitter:card'
       value: summary
     - name: 'twitter:title'
-      value: Contact
+      value: Emilio Sánchez Ramírez | Contact
     - name: 'twitter:description'
       value: This is the contact page
+    - name: 'og:image'
+      value: /images/contact-preview.png
+      keyName: property
+      relativeUrl: true
 layout: advanced
 ---

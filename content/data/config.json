@@ -4,7 +4,7 @@
     "color_scheme": "dark",
     "accent_color": "pink",
     "header": {
-        "title": "emlez",
+        "title": "emlez.dev",
         "has_nav": true,
         "nav_links": [
             {
@@ -59,6 +59,14 @@
                 "style": "icon",
                 "icon": "twitter",
                 "new_window": true
+            },
+            {
+                "label": "Instagram",
+                "url": "https://www.instagram.com/emlezdev/",
+                "style": "icon",
+                "icon": "instagram",
+                "new_window": true,
+                "no_follow": false
             }
         ],
         "content": "Made with 💜",
@@ -73,6 +81,6 @@
             }
         ]
     },
-    "domain": "https://emlez-df082.netlify.app",
+    "domain": "https://emlez.netlify.app",
     "favicon": "/images/icons8-code-48.png"
 }

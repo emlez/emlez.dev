@@ -4,30 +4,30 @@ date: '2021-09-27'
 thumb_image: /images/Practical-JavaScript.png
 image: /images/practical js.png
 seo:
-  title: Project Title 4
-  description: This is the project 4 description
+  title: Practical JavaScript
+  description: This is my take on four math workshops using JavaScript
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Project Title 4
+      value: Practical JavaScript
       keyName: property
     - name: 'og:description'
-      value: This is the project 4 description
+      value: This is my take on four math workshops using JavaScript
       keyName: property
     - name: 'og:image'
-      value: images/4.jpg
+      value: /images/Practical-JavaScript.png
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Project Title 4
+      value: Practical JavaScript
     - name: 'twitter:description'
-      value: This is the project 4 description
+      value: This is my take on four math workshops using JavaScript
     - name: 'twitter:image'
-      value: images/4.jpg
+      value: /images/Practical-JavaScript.png
       relativeUrl: true
 layout: project
 subtitle: A series of projects in JavaScript

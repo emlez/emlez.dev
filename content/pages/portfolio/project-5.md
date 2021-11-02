@@ -14,23 +14,23 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Project Title 5
+      value: Graphing Calculator
       keyName: property
     - name: 'og:description'
-      value: This is the project 5 description
+      value: This is my solution to a graphing calculator with JavaScript
       keyName: property
     - name: 'og:image'
-      value: images/5.jpg
+      value: /images/graphing.png
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Project Title 5
+      value: Graphing Calculator
     - name: 'twitter:description'
-      value: This is the project 5 description
+      value: This is my solution to a graphing calculator with JavaScript
     - name: 'twitter:image'
-      value: images/5.jpg
+      value: /images/graphing.png
       relativeUrl: true
 layout: project
 ---

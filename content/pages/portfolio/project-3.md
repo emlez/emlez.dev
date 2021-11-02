@@ -7,30 +7,30 @@ thumb_image_alt: Three illustrated people browsing the web.
 image: /images/platzi video.png
 image_alt: Three illustrated people browsing the web.
 seo:
-  title: Project Title 3
-  description: This is the project 3 description
+  title: Platzi Video
+  description: This is my take on a Frontend Developer course at Platzi
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Project Title 3
+      value: Platzi Video
       keyName: property
     - name: 'og:description'
-      value: This is the project 3 description
+      value: This is my take on a Frontend Developer course at Platzi
       keyName: property
     - name: 'og:image'
-      value: images/3.jpg
+      value: /images/platzi video.png
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Project Title 3
+      value: Platzi Video
     - name: 'twitter:description'
-      value: This is the project 3 description
+      value: This is my take on a Frontend Developer course at Platzi
     - name: 'twitter:image'
-      value: images/3.jpg
+      value: /images/platzi video.png
       relativeUrl: true
 layout: project
 ---
