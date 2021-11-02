@@ -4,7 +4,7 @@ date: '2021-09-09'
 thumb_image: /images/batata bit.png
 thumb_image_alt: Orange staircase going up.
 image: /images/batata bit.png
-image_alt: An orange on a blue background
+image_alt: Orange staircase going up.
 seo:
   title: Project Title 2
   description: This is the project 2 description
