@@ -1,5 +1,5 @@
 ---
-title: 'Platzi Video '
+title: "Platzi Video \U0001F4FC"
 subtitle: Optional Project Subtitle
 date: '2019-04-08'
 thumb_image: images/3_thumb.jpg
