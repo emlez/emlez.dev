@@ -45,7 +45,7 @@ sections:
             icon: dribbble
             new_window: false
             no_follow: false
-      - title: Service Title
+      - title: Git & GitHub
         content: >-
           Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
           a maximus mi. Quisque justo nunc, sollicitudin euismod euismod at,
