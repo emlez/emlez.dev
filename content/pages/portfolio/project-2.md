@@ -3,7 +3,7 @@ title: Batatabit
 date: '2021-09-09'
 thumb_image: /images/batata bit.png
 thumb_image_alt: Orange staircase going up.
-image: images/2.jpg
+image: /images/batata bit.png
 image_alt: An orange on a blue background
 seo:
   title: Project Title 2
