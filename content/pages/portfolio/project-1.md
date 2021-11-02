@@ -13,7 +13,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Project Title 1
+      value: Platzi Master Project C8
       keyName: property
     - name: 'og:description'
       value: This is the project 1 description
