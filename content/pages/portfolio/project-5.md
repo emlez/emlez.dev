@@ -1,5 +1,5 @@
 ---
-title: 'Graphing Calculator '
+title: "Graphing Calculator \U0001F9EE"
 subtitle: Optional Project Subtitle
 date: '2019-01-05'
 thumb_image: /images/graphing.png
