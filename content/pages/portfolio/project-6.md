@@ -1,5 +1,5 @@
 ---
-title: Project Title 6
+title: emlez.dev
 subtitle: Optional Project Subtitle
 date: '2021-10-25'
 thumb_image: /images/twitter.png
