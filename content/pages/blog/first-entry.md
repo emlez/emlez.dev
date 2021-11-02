@@ -11,6 +11,7 @@ seo:
   robots: []
   extra: []
 layout: post
+thumb_image: /images/master-welcome.jpg
 ---
 ## Lorem ipsum
 
