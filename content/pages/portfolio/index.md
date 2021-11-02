@@ -3,7 +3,7 @@ title: Portfolio
 subtitle: Here are my projects as a web developer.
 layout_style: mosaic
 seo:
-  title: Portfolio
+  title: Emilio Sánchez Ramírez | Portfolio
   description: This is the portfolio page
   extra:
     - name: 'og:type'
