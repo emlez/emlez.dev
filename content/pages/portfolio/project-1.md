@@ -16,7 +16,7 @@ seo:
       value: Platzi Master Project C8
       keyName: property
     - name: 'og:description'
-      value: This is the project 1 description
+      value: This is a project made with Platzi Master
       keyName: property
     - name: 'og:image'
       value: /images/Platzi-Master.jpg
