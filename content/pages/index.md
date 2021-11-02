@@ -69,7 +69,7 @@ sections:
           thing is that I can always keep on learning because of how inmense
           this technology is.
         title: JavaScript
-      - title: Service title
+      - title: SCRUM
         content: >-
           Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
           nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
