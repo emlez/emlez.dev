@@ -5,7 +5,7 @@ thumb_image: /images/Practical-JavaScript.png
 image: /images/practical js.png
 seo:
   title: Practical JavaScript
-  description: This is the project 4 description
+  description: This is my take on four math workshops using JavaScript
   extra:
     - name: 'og:type'
       value: website
