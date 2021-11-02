@@ -30,7 +30,7 @@ seo:
     - name: 'twitter:description'
       value: This is my take on a Frontend Developer course at Platzi
     - name: 'twitter:image'
-      value: images/3.jpg
+      value: /images/platzi video.png
       relativeUrl: true
 layout: project
 ---
