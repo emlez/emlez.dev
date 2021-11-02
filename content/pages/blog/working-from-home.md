@@ -5,7 +5,7 @@ excerpt: >-
   commodo odio aenean sed adipiscing diam donec. Vitae congue mauris rhoncus
   aenean vel elit.
 date: '2021-11-01'
-thumb_image: images/9_thumb.jpg
+thumb_image: /images/master-welcome.jpg
 image: images/9.jpg
 seo:
   title: The Advantages and Disadvantages of Working from Home
