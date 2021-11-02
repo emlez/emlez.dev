@@ -44,7 +44,7 @@ sections:
         is_required: true
     submit_label: Send Message
 seo:
-  title: Contact
+  title: Emilio Sánchez Ramírez | Contact
   description: This is the contact page
   extra:
     - name: 'og:type'
