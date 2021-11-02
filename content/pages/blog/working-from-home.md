@@ -29,7 +29,7 @@ seo:
     - name: 'twitter:description'
       value: How I entered the Platzi Master program
     - name: 'twitter:image'
-      value: /images/master-welcome.jpg
+      value: images/master-welcome.jpg
       relativeUrl: true
 layout: post
 subtitle: 'Fail fast, learn fast'
