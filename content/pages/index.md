@@ -37,7 +37,7 @@ sections:
             url: 'https://platzi.com/p/emlez/'
             style: button
             icon: dribbble
-            new_window: false
+            new_window: true
             no_follow: false
       - title: Service Title
         content: >-
