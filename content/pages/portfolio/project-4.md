@@ -42,8 +42,6 @@ subtitle: A series of projects in JavaScript
 
 3.  Third Workshop: Mean, Median and mode ➗ 💛
 
-4.  Fourth Workshop: Wages Analysis
+4.  Fourth Workshop: Wages Analysis 
 
-> [Here you can try it for yourself](https://emlez.github.io/Practical-JS/)
->
-> .
+> [Here you can try it for yourself](https://emlez.github.io/Practical-JS/).
