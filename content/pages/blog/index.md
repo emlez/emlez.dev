@@ -4,7 +4,7 @@ subtitle: 'Thoughts, tips and highlights'
 hide_title: false
 col_number: three
 seo:
-  title: Blog
+  title: Emilio Sánchez Ramírez | Blog
   description: This is the blog page
   extra:
     - name: 'og:type'
