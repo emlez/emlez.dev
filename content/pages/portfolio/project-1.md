@@ -34,14 +34,14 @@ seo:
 layout: project
 image_alt: Platzi Master banner with an illustration of a pair of hands holding a resume.
 ---
-**Practical JavaScript** is a series of projects by [Platzi's JavaScript School](https://platzi.com/escuela-javascript/), where we apply JavaScript to solve several challenges and try different kinds of calculations, using only Vanilla JavaScript.
+**Platzi Master** is an online education program aimed at technical deepening and professional growth in software development.
 
-1.  First Workshop: Geometric Figures 🟡
+During 5 months of immersed training in five different parallel scenarios of comprehensive training that include English, professional growth, product development with software, technical leadership and tech community. 
 
-2.  Second Workshop: Percentages & Discounts 🧮 
+Additionally, receiving feedback on my process through interviews and technical tests led by Platzi Master team of experts.
 
-3.  Third Workshop: Mean, Median and mode 💛
+About the secret project, I can't say a thing yet...
 
-4.  Fourth Workshop: Wages Analysis 
+But the resume/CV in the image isn't there just because.
 
-> [Here you can try it for yourself](https://emlez.github.io/Practical-JS/).
+
