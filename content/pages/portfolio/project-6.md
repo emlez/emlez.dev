@@ -7,7 +7,7 @@ thumb_image_alt: emlez.dev logo with the web developer title.
 image: /images/twitter.png
 image_alt: emlez.dev banner with QR code that redirects to Linktree.
 seo:
-  title: Project Title 6
+  title: emlez.dev webpage
   description: This is the project 6 description
   extra:
     - name: 'og:type'
