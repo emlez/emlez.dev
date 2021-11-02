@@ -4,7 +4,7 @@ excerpt: >-
   The beginning of an experience I will never forget
 date: '2016-08-22'
 thumb_image: /images/master-welcome.jpg
-image: https://i.postimg.cc/L5Z1N47h/master-welcome.jpg
+image: /images/master-welcome.jpg
 seo:
   title: My way to Platzi Master
   description: How I entered the Platzi Master program
