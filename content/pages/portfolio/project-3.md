@@ -4,7 +4,7 @@ subtitle: A video site to sharpen my CSS skills
 date: '2021-09-05'
 thumb_image: /images/platzi video.png
 thumb_image_alt: Three illustrated people browsing the web.
-image: images/3.jpg
+image: /images/platzi video.png
 image_alt: A yellow retro telephone on a yellow background
 seo:
   title: Project Title 3
