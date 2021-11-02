@@ -23,7 +23,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: About me
+      value: Emilio Sánchez Ramírez | About me
     - name: 'twitter:description'
       value: This is the about me page
     - name: 'twitter:image'
