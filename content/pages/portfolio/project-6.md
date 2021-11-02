@@ -4,7 +4,7 @@ subtitle: My personal website
 date: '2021-10-25'
 thumb_image: /images/twitter.png
 thumb_image_alt: emlez.dev logo with the web developer title.
-image: images/6.jpg
+image: /images/twitter.png
 image_alt: A handheld game console on a yellow background
 seo:
   title: Project Title 6
