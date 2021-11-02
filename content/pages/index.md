@@ -46,10 +46,10 @@ sections:
             new_window: false
             no_follow: false
       - title: Git & GitHub
-        content: >-
-          Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
-          a maximus mi. Quisque justo nunc, sollicitudin euismod euismod at,
-          tincidunt ut tellus.
+        content: >
+          I don't think software development would work without these version
+          control tools, and that's why I've been sharpening my Git skills even
+          though an IDE makes it easier than ever to get started.
       - title: Service Title
         content: >-
           Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
