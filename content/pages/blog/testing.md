@@ -34,3 +34,5 @@ subtitle: 'Fail fast, learn fast'
 thumb_image_alt: Platzi Master Cohort 8 welcome zoom call.
 image_alt: Platzi Master Cohort 8 welcome zoom call.
 ---
+
+Hello, this is a test
