@@ -100,7 +100,7 @@ seo:
     - name: 'twitter:title'
       value: Emilio Sánchez Ramírez | emlez.dev
     - name: 'twitter:description'
-      value: The preview of the Exto theme
+      value: Emilio Sánchez Ramírez or emlez professional website
     - name: 'twitter:image'
       value: /images/emlez-preview.png
       relativeUrl: true
