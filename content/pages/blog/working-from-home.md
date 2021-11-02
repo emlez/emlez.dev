@@ -1,8 +1,12 @@
 ---
-title: My way to Platzi Master
-date: '2021-11-01'
-thumb_image: /images/master-welcome.jpg
-image: /images/master-welcome.jpg
+title: The Advantages and Disadvantages of Working from Home
+excerpt: >-
+  Interdum posuere lorem ipsum dolor sit amet consectetur. Odio morbi quis
+  commodo odio aenean sed adipiscing diam donec. Vitae congue mauris rhoncus
+  aenean vel elit.
+date: '2016-08-22'
+thumb_image: https://i.postimg.cc/L5Z1N47h/master-welcome.jpg
+image: images/9.jpg
 seo:
   title: The Advantages and Disadvantages of Working from Home
   description: Interdum posuere lorem ipsum dolor sit amet consectetur
