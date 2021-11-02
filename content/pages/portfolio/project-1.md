@@ -1,5 +1,5 @@
 ---
-title: Practical JavaScript
+title: Platzi Master Secret Project
 subtitle: A series of projects in JavaScript
 date: '2021-09-27'
 thumb_image: /images/Practical-JavaScript.png
