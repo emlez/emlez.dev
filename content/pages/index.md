@@ -79,7 +79,7 @@ sections:
         url: blog
         style: button
 seo:
-  title: Emilio Sánchez Ramírez website - emlez.dev
+  title: Emilio Sánchez Ramírez website | emlez.dev
   description: emlez.dev professional website
   extra:
     - name: 'og:type'
