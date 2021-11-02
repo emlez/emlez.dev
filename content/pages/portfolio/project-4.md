@@ -1,7 +1,7 @@
 ---
 title: "Practical JS \U0001F49B"
 date: '2021-09-27'
-thumb_image: /images/Practical-JavaScript.png
+thumb_image: /images/practical js.png
 image: /images/Practical-JS.jpeg
 seo:
   title: Project Title 4
