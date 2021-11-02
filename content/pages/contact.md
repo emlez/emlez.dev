@@ -59,7 +59,7 @@ seo:
     - name: 'twitter:card'
       value: summary
     - name: 'twitter:title'
-      value: Contact
+      value: Emilio Sánchez Ramírez | Contact
     - name: 'twitter:description'
       value: This is the contact page
     - name: 'og:image'
