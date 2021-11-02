@@ -1,5 +1,5 @@
 ---
-title: 'Platzi Master Secret Project '
+title: "Platzi Master Secret Project \U0001F49A"
 subtitle: A secret until we can announce it
 date: '2021-09-27'
 thumb_image: /images/Platzi-Master.jpg
