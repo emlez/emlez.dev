@@ -28,7 +28,7 @@ seo:
     - name: 'twitter:title'
       value: Platzi Video
     - name: 'twitter:description'
-      value: This is the project 3 description
+      value: This is my take on a Frontend Developer course at Platzi
     - name: 'twitter:image'
       value: images/3.jpg
       relativeUrl: true
