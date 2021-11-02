@@ -65,7 +65,7 @@
                 "url": "https://linktr.ee/emlezdev/",
                 "style": "icon",
                 "icon": "instagram",
-                "new_window": false,
+                "new_window": true,
                 "no_follow": false
             }
         ],
