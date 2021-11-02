@@ -23,7 +23,7 @@ sections:
   - section_id: services
     type: section_grid
     title: My Stack
-    subtitle: Technologies and skills
+    subtitle: Technologies and 
     col_number: two
     is_numbered: true
     grid_items:
