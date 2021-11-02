@@ -1,9 +1,7 @@
 ---
 title: My way to Platzi Master
 excerpt: >-
-  Interdum posuere lorem ipsum dolor sit amet consectetur. Odio morbi quis
-  commodo odio aenean sed adipiscing diam donec. Vitae congue mauris rhoncus
-  aenean vel elit.
+  The beginning of an 
 date: '2016-08-22'
 thumb_image: https://i.postimg.cc/L5Z1N47h/master-welcome.jpg
 image: https://i.postimg.cc/L5Z1N47h/master-welcome.jpg
