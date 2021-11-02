@@ -1,5 +1,5 @@
 ---
-title: Platzi Master Startup C8
+title: 'Practical JavaScript '
 subtitle: Optional Project Subtitle
 date: '2019-05-10'
 thumb_image: /images/Practical-JavaScript.png
