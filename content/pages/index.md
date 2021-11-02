@@ -89,7 +89,7 @@ seo:
       value: Emilio Sánchez Ramírez | emlez.dev
       keyName: property
     - name: 'og:description'
-      value: 'Emilio Sánchez Ramírez or emlez, professional website'
+      value: Emilio Sánchez Ramírez or emlez professional website
       keyName: property
     - name: 'og:image'
       value: /images/emlez-preview.png
