@@ -20,7 +20,7 @@ seo:
       value: This is my take on a Frontend Developer course at Platzi
       keyName: property
     - name: 'og:image'
-      value: images/3.jpg
+      value: /images/platzi video.png
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
