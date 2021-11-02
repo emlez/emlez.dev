@@ -17,7 +17,7 @@ seo:
       value: Platzi Video
       keyName: property
     - name: 'og:description'
-      value: This is the project 3 description
+      value: This is my take on a Frontend Developer course at Platzi
       keyName: property
     - name: 'og:image'
       value: images/3.jpg
