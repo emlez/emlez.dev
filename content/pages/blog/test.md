@@ -1,38 +1,41 @@
 ---
 title: My way to Platzi Master
-date: '2021-11-01'
-thumb_image: /images/master-welcome.jpg
-image: /images/master-welcome.jpg
+excerpt: >-
+  The beginning of an experience I will never forget
+date: '2016-08-22'
+thumb_image: images/master-welcome.jpg
+image: images/master-welcome.jpg
 seo:
-  title: The Advantages and Disadvantages of Working from Home
-  description: Interdum posuere lorem ipsum dolor sit amet consectetur
+  title: My way to Platzi Master
+  description: How I entered the Platzi Master program
   extra:
     - name: 'og:type'
       value: article
       keyName: property
     - name: 'og:title'
-      value: The Advantages and Disadvantages of Working from Home
+      value: My way to Platzi Master
       keyName: property
     - name: 'og:description'
-      value: Interdum posuere lorem ipsum dolor sit amet consectetur
+      value: How I entered the Platzi Master program
       keyName: property
     - name: 'og:image'
-      value: images/9.jpg
+      value: images/master-welcome.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: The Advantages and Disadvantages of Working from Home
+      value: My way to Platzi Master
     - name: 'twitter:description'
-      value: Interdum posuere lorem ipsum dolor sit amet consectetur
+      value: How I entered the Platzi Master program
     - name: 'twitter:image'
-      value: images/9.jpg
+      value: images/master-welcome.jpg
       relativeUrl: true
 layout: post
 subtitle: 'Fail fast, learn fast'
 thumb_image_alt: Platzi Master Cohort 8 welcome zoom call.
 image_alt: Platzi Master Cohort 8 welcome zoom call.
+excerpt: The beginning of an experience I will never forget
 ---
 
 Interdum posuere lorem ipsum dolor sit amet consectetur. Odio morbi quis commodo odio aenean sed adipiscing diam donec. Vitae congue mauris rhoncus aenean vel elit scelerisque mauris pellentesque. Porttitor massa id neque aliquam vestibulum morbi blandit cursus. Vitae aliquet nec ullamcorper sit. Gravida arcu ac tortor dignissim convallis aenean. Quisque sagittis purus sit amet volutpat consequat mauris nunc congue. Est ultricies integer quis auctor. Commodo quis imperdiet massa tincidunt nunc pulvinar sapien. Vel risus commodo viverra maecenas accumsan lacus. Donec adipiscing tristique risus nec feugiat in fermentum. Habitasse platea dictumst quisque sagittis purus sit. Quam adipiscing vitae proin sagittis nisl rhoncus mattis rhoncus urna. Id leo in vitae turpis massa sed. Auctor elit sed vulputate mi sit. Gravida arcu ac tortor dignissim convallis aenean et.
