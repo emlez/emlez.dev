@@ -1,6 +1,6 @@
 ---
 title: About me
-subtitle: This is a short page about who am I.
+subtitle: This is a short page about who am I
 image: /images/twitter.png
 image_alt: emlez web developer banner with QR code
 seo:
