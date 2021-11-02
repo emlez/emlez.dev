@@ -5,7 +5,7 @@ image: /images/twitter.png
 image_alt: emlez web developer banner with QR code
 seo:
   title: About Us
-  description: This is the about us page
+  description: This is the about me page
   extra:
     - name: 'og:type'
       value: website
