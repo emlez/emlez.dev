@@ -29,7 +29,9 @@ seo:
     - name: 'twitter:title'
       value: Batatabit Landing Page
     - name: 'twitter:description'
-      value: This is the project 2 description
+      value: >-
+        This is the first Batatabit landing page designed by Platzi with a Figma
+        project
     - name: 'twitter:image'
       value: /images/batata bit-19fa9119.png
       relativeUrl: true
