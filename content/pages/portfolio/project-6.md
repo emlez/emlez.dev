@@ -8,7 +8,7 @@ image: /images/twitter.png
 image_alt: emlez.dev banner with QR code that redirects to Linktree.
 seo:
   title: emlez.dev webpage
-  description: This is the project 6 description
+  description: This is the emlez.dev website description
   extra:
     - name: 'og:type'
       value: website
