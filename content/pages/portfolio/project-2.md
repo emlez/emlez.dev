@@ -2,7 +2,7 @@
 title: Batatabit
 date: '2021-09-09'
 thumb_image: /images/batata bit.png
-thumb_image_alt: 'Orange bar chart '
+thumb_image_alt: Orange ste
 image: images/2.jpg
 image_alt: An orange on a blue background
 seo:
