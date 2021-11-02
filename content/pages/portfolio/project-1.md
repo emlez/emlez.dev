@@ -7,7 +7,7 @@ thumb_image_alt: Platzi Master logo with a purple grided background.
 image: /images/Platzi Master.jpg
 seo:
   title: Platzi Master Project C8
-  description: This is the project 1 description
+  description: This is a project made with Platzi Master
   extra:
     - name: 'og:type'
       value: website
