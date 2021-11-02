@@ -29,7 +29,7 @@ seo:
     - name: 'twitter:description'
       value: This is the project 2 description
     - name: 'twitter:image'
-      value: images/2.jpg
+      value: /images/batata bit-19fa9119.png
       relativeUrl: true
 layout: project
 subtitle: 'Batatabit Mobile-First landing page. '
