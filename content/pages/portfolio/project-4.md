@@ -2,7 +2,7 @@
 title: "Practical JS \U0001F49B"
 date: '2021-09-27'
 thumb_image: /images/Practical-JS.jpeg
-thumb_image_alt: 'JavaScript logo with a browser '
+thumb_image_alt: 'JavaScript logo '
 image: images/4.jpg
 image_alt: A table tennis racket on a pink background
 seo:
