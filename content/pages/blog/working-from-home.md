@@ -7,7 +7,7 @@ thumb_image: https://i.postimg.cc/L5Z1N47h/master-welcome.jpg
 image: https://i.postimg.cc/L5Z1N47h/master-welcome.jpg
 seo:
   title: My way to Platzi Master
-  description: How I went from not zero to 
+  description: How I went from 
   extra:
     - name: 'og:type'
       value: article
