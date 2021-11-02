@@ -40,4 +40,4 @@ excerpt: The beginning of an experience I will never forget
 
 If you follow me on [Twitter](https://twitter.com/emlezdev/) then you probably read when I got the email from Platzi Master. However, the journey began months before that email was anywhere near.
 
-Let's start from 
+Let's start from when I read about the program.
