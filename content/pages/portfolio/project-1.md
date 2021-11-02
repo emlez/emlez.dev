@@ -3,7 +3,7 @@ title: Platzi Master Secret Project
 subtitle: A secret until we can announce it
 date: '2021-09-27'
 thumb_image: /images/Platzi Master.jpg
-thumb_image_alt: Platzi Master banner with some hands holding a resume
+thumb_image_alt: Platzi Master banner with an illustration of a pairsome hands holding a resume
 image: /images/Platzi Master.jpg
 seo:
   title: Project Title 1
