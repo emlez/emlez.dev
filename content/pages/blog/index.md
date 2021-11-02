@@ -27,7 +27,7 @@ seo:
     - name: 'twitter:description'
       value: This is the blog page
     - name: 'twitter:image'
-      value: images/12.jpg
+      value: /images/emlez logo.png
       relativeUrl: true
 layout: blog
 ---
