@@ -3,7 +3,7 @@ title: emlez.dev
 subtitle: My personal website
 date: '2021-10-25'
 thumb_image: /images/twitter.png
-thumb_image_alt: emlez.dev logo with the web developer subtitle.
+thumb_image_alt: 'emlez.dev logo with the web developer '
 image: images/6.jpg
 image_alt: A handheld game console on a yellow background
 seo:
