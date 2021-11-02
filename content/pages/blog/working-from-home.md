@@ -38,4 +38,4 @@ image_alt: Platzi Master Cohort 8 welcome zoom call.
 excerpt: The beginning of an experience I will never forget
 ---
 
-If you follow me on []
+If you follow me on []()
