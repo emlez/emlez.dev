@@ -4,7 +4,7 @@ subtitle: This is a short page about who am I
 image: /images/twitter.png
 image_alt: emlez web developer banner with QR code
 seo:
-  title: About Us
+  title: About me
   description: This is the about me page
   extra:
     - name: 'og:type'
