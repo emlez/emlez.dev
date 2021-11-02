@@ -8,7 +8,7 @@ image: /images/platzi video.png
 image_alt: Three illustrated people browsing the web.
 seo:
   title: Platzi Video
-  description: This is the project 3 description
+  description: This is my take on a Frontend Developer course at Platzi
   extra:
     - name: 'og:type'
       value: website
