@@ -11,7 +11,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Project Title 4
+      value: Practical JavaScript
       keyName: property
     - name: 'og:description'
       value: This is the project 4 description
