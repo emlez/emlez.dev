@@ -23,7 +23,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Project Title 4
+      value: Practical JavaScript
     - name: 'twitter:description'
       value: This is my take on four math workshops using JavaScript
     - name: 'twitter:image'
