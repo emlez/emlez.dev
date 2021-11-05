@@ -1,5 +1,5 @@
 ---
-title: 'The Platzi community '
+title: The Platzi community
 date: '2021-11-01'
 thumb_image: /images/master-welcome.jpg
 image: /images/master-welcome.jpg
