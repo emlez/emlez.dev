@@ -30,7 +30,6 @@ seo:
       value: images/9.jpg
       relativeUrl: true
 layout: post
-thumb_image_alt: Platzi Master Cohort 8 welcome zoom call.
 image_alt: Platzi Master Cohort 8 welcome zoom call.
 subtitle: Sharing is learning
 ---
