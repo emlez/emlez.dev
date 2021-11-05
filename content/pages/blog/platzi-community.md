@@ -12,6 +12,7 @@ seo:
   extra: []
 layout: post
 thumb_image: /images/self-sabotage.png
+image: /images/self-sabotage.png
 ---
 ## Lorem ipsum
 
