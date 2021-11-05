@@ -32,6 +32,7 @@ seo:
 layout: post
 thumb_image_alt: Platzi Master Cohort 8 welcome zoom call.
 image_alt: Platzi Master Cohort 8 welcome zoom call.
+subtitle: Sharing is learning
 ---
 
 Soon...
