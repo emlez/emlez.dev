@@ -43,8 +43,7 @@ sections:
           can be contacted.
         is_required: true
     submit_label: Send Message
-  - title: Contact
-    section_id: lorem-ipsum
+  - section_id: lorem-ipsum
     subtitle: lorem-ipsum
     image_alt: lorem-ipsum
     content: >-
