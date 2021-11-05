@@ -50,7 +50,7 @@ I'm not gonna lie, I was scared at first because of the decision I was taking wi
 
 Still I used my dad's computer whenever I could, I installed my IDE, everything I needed to get on track, and for a couple months I was doing what I wanted and feeling confident about it!
 
-Then I guess I got tired of being isolated and just stopped. 
+Then I guess I got tired of being isolated and just stopped.
 
 And that's how I ended last year.
 
@@ -125,4 +125,4 @@ It's amazing how a community is so well developed around Platzi, that one day I 
 
 I think that's best part. I didn't even noticed when I joined, but can always tell they'll be there to help.
 
-**I can't thank you enough for how you helped me. **
+**I can't thank you enough for how you helped me**.
