@@ -30,7 +30,7 @@ seo:
       value: images/9.jpg
       relativeUrl: true
 layout: post
-image_alt: Platzi Master Cohort 8 welcome zoom call.
+image_alt: A ton of Post-it notes on defeating self-sabotage.
 subtitle: Sharing is learning
 thumb_image_alt: A ton of Post-it notes on defeating self-sabotage.
 ---
