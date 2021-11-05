@@ -3,7 +3,7 @@ title: The Platzi community
 subtitle: Sharing is learning
 date: '2021-11-05'
 thumb_image_alt: A ton of Post-it notes on defeating self-sabotage.
-image_alt: lorem-ipsum
+image_alt: A ton of Post-it notes on defeating self-sabotage.
 excerpt: lorem-ipsum
 seo:
   title: ''
