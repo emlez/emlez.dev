@@ -1,6 +1,6 @@
 ---
 title: The Platzi community
-subtitle: lorem-ipsum
+subtitle: Sharing is learning
 date: '2021-11-05'
 thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
