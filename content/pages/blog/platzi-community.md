@@ -12,7 +12,7 @@ seo:
 layout: post
 thumb_image: /images/self-sabotage.png
 image: /images/self-sabotage.png
-excerpt: ' n'
+excerpt: ' '
 ---
 So, I knew [@platzi](https://twitter.com/platzi) was all about the community.
 
