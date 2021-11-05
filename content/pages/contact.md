@@ -44,17 +44,20 @@ sections:
         is_required: true
     submit_label: Send Message
   - image_alt: lorem-ipsum
-    content: >-
-      ## Lorem ipsum
+    content: >+
+      ### Hi there! 
 
 
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
+      Thank you so much for your interest in working together. 
 
 
-      - Lorem ipsum
+      Please send us an email at <emlez.dev@gmail.com> or write me a message in
+      [Telegram](https://t.me/emlezdev/).
 
-      - dolor sit amet
+
+      You can find me almost everywhere around the internet [in
+      here](https://linktr.ee/emlezdev/).
+
     type: section_content
 seo:
   title: Emilio Sánchez Ramírez | Contact
