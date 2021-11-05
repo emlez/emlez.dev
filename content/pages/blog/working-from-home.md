@@ -1,6 +1,6 @@
 ---
 title: The Platzi community
-date: '2021-11-01'
+date: '2021-11-05'
 thumb_image: /images/master-welcome.jpg
 image: /images/master-welcome.jpg
 seo:
