@@ -58,7 +58,6 @@ sections:
 
       - dolor sit amet
     type: section_content
-    title: f
 seo:
   title: Emilio Sánchez Ramírez | Contact
   description: This is the contact page
