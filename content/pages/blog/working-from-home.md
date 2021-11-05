@@ -1,7 +1,7 @@
 ---
 title: The Platzi community
 date: '2021-11-05'
-thumb_image: /images/master-welcome.jpg
+thumb_image: /images/self-sabotage.png
 image: /images/master-welcome.jpg
 seo:
   title: The Advantages and Disadvantages of Working from Home
