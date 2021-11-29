@@ -78,7 +78,8 @@ sections:
             new_window: true
             no_follow: false
           - label: JavaScript Challenge Phase 2
-            url: '#'
+            url: >-
+              https://platzi.com/p/emlez/curso/2610-jschallenge-fase2/diploma/detalle/
             style: link
             icon: dribbble
             new_window: false
