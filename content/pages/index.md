@@ -6,8 +6,14 @@ sections:
     type: section_hero
     title: 'Hello, World! My name is Emilio Sánchez Ramírez'
     content: >
-      I am a Frontend Web Developer, in constant learning, and a Platzi Master
-      Student C8.
+      Front End Developer specialized in JavaScript & React.js, currently
+      sharpening my skills along with Platzi Master program & project working
+      with a team of nearly 100 developers and counting.
+
+
+      With experience leading large teams as a Technical Leader for the cashless
+      payment system responsible for the most iconic massive events in México
+      from 2019 to 2020.
     actions:
       - label: Let's talk
         url: /contact
