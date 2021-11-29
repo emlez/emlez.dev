@@ -70,7 +70,7 @@ sections:
           this technology is.
         title: JavaScript
         actions:
-          - label: JavaScript Certifications
+          - label: JavaScript Challenge Phase 1
             url: >-
               https://platzi.com/p/emlez/curso/2503-jschallenge-fase1/diploma/detalle/
             style: link
