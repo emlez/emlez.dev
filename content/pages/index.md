@@ -82,7 +82,7 @@ sections:
               https://platzi.com/p/emlez/curso/2610-jschallenge-fase2/diploma/detalle/
             style: button
             icon: dribbble
-            new_window: false
+            new_window: true
             no_follow: false
       - title: SCRUM
         content: >
