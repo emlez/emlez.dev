@@ -70,7 +70,7 @@ sections:
           this technology is.
         title: JavaScript
         actions:
-          - label: lorem-ipsum
+          - label: JavaScript Certifications
             url: '#'
             style: link
             icon: dribbble
