@@ -35,9 +35,18 @@ sections:
     grid_items:
       - title: HTML & CSS
         content: >
-          I've been following the Web Development School learning path at
-          Platzi, and from its past a hundred courses (I've taken almost 80) I
-          have been able to learn the fundamentals of HTML & CSS.
+          I've followed the Web Development School learning path at Platzi and
+          from its over a hundred courses (I've taken almost 80 of them!) I have
+          been able to learn the fundamentals and some secrets and peculiarities
+          of HTML5 & CSS3.
+
+
+          From CSS Flexbox, Grid and Specificity to Semantic HTML and its
+          accessibility and SEO-positioning features.
+
+
+          Everyone's path is different, I'm just really glad I started from the
+          beginning.
         actions:
           - label: Certifications
             url: 'https://platzi.com/p/emlez/'
