@@ -75,7 +75,7 @@ sections:
           analysts, backend and frontend developers for a major web project, and
           I don't think I can make it without an agile methodology like SCRUM.
         actions:
-          - label: 'SCRUM '
+          - label: SCRUM Certification
             url: '#'
             style: link
             icon: dribbble
