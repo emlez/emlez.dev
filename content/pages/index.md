@@ -69,6 +69,13 @@ sections:
           thing is that I can always keep on learning because of how inmense
           this technology is.
         title: JavaScript
+        actions:
+          - label: lorem-ipsum
+            url: '#'
+            style: link
+            icon: dribbble
+            new_window: false
+            no_follow: false
       - title: SCRUM
         content: >
           I've been given the opportunity to work with graphic designers, data
