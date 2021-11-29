@@ -1,4 +1,4 @@
-[![emlez-preview.png](https://i.postimg.cc/MGYNGK0j/emlez-preview.png)](https://postimg.cc/3ydnShcK)
+[![emlez-preview.png](https://i.postimg.cc/MGYNGK0j/emlez-preview.png)](https://emlez.netlify.app/)
 # emlez.dev 💜
 
 Along the [Say My Brand 2.0 challenge](https://postimg.cc/ThcSmFds), I worked on my presence around the web; from social media accounts to my professional objective.
@@ -13,6 +13,8 @@ This particular site is built with:
 - **React.js** and **Next.js** to develop a development interface that can accept **Markdown** files and convert them into **HTML** and **CSS** using only **JavaScript**.
 - **Netlify** for its deployment to the web. 
 - **GitHub** for its version control.
+
+[🔗 Here you can see it for yourself](https://emlez.netlify.app/)
 
 ---
 
