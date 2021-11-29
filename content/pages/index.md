@@ -86,9 +86,13 @@ sections:
             no_follow: false
       - title: SCRUM
         content: >
-          I've been given the opportunity to work with graphic designers, data
-          analysts, backend and frontend developers for a major web project, and
-          I don't think I can make it without an agile methodology like SCRUM.
+          I've worked with Graphic Designers, Data Analysts, Back End and Front
+          End developers for a major web project, and I don't think I can make
+          it without an agile methodology like SCRUM.
+
+
+          With it, we've managed to interact and make amazing progress on our
+          plans, even when we are working from 3 different time zones.
         actions:
           - label: SCRUM Certification
             url: 'https://platzi.com/p/emlez/curso/1750-scrum/diploma/detalle/'
