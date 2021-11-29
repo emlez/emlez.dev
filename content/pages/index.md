@@ -73,7 +73,7 @@ sections:
           - label: JavaScript Challenge Phase 1
             url: >-
               https://platzi.com/p/emlez/curso/2503-jschallenge-fase1/diploma/detalle/
-            style: link
+            style: button
             icon: dribbble
             new_window: false
             no_follow: false
