@@ -6,7 +6,7 @@ sections:
     type: section_hero
     title: 'Hello, World! My name is Emilio Sánchez Ramírez'
     content: >
-      Front End Developer specialized in JavaScript & React.js, currently
+      I'm a Front End Developer specialized in JavaScript & React.js, currently
       sharpening my skills along with Platzi Master program & project working
       with a team of nearly 100 developers and counting.
 
