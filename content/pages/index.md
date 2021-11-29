@@ -71,7 +71,8 @@ sections:
         title: JavaScript
         actions:
           - label: JavaScript Certifications
-            url: '#'
+            url: >-
+              https://platzi.com/p/emlez/curso/2503-jschallenge-fase1/diploma/detalle/
             style: link
             icon: dribbble
             new_window: false
