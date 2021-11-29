@@ -77,6 +77,12 @@ sections:
             icon: dribbble
             new_window: true
             no_follow: false
+          - label: lorem-ipsum
+            url: '#'
+            style: link
+            icon: dribbble
+            new_window: false
+            no_follow: false
       - title: SCRUM
         content: >
           I've been given the opportunity to work with graphic designers, data
