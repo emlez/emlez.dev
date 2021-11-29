@@ -3,19 +3,14 @@ title: Contact
 hide_title: false
 sections:
   - image_alt: lorem-ipsum
-    content: >
+    content: |
       ### Hi there!
-
 
       Thank you so much for your interest in working together.
 
+       Please send me an email at <emlez.dev@gmail.com> or write me a message in [Telegram](https://t.me/emlezdev/).
 
-      Please send me an email at <emlez.dev@gmail.com> or write me a message in
-      [Telegram](https://t.me/emlezdev/).
-
-
-      You can find me almost everywhere around the internet [in
-      here](https://linktr.ee/emlezdev/).
+       Also, you can find me almost everywhere around the internet [in here](https://linktr.ee/emlezdev/).
     type: section_content
 seo:
   title: Emilio Sánchez Ramírez | Contact
