@@ -76,7 +76,7 @@ sections:
           I don't think I can make it without an agile methodology like SCRUM.
         actions:
           - label: SCRUM Certification
-            url: '#'
+            url: 'https://platzi.com/p/emlez/curso/1750-scrum/diploma/detalle/'
             style: link
             icon: dribbble
             new_window: false
