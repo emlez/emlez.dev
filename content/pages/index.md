@@ -77,7 +77,7 @@ sections:
         actions:
           - label: SCRUM Certification
             url: 'https://platzi.com/p/emlez/curso/1750-scrum/diploma/detalle/'
-            style: link
+            style: button
             icon: dribbble
             new_window: false
             no_follow: false
