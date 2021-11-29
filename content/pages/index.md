@@ -79,7 +79,7 @@ sections:
             url: 'https://platzi.com/p/emlez/curso/1750-scrum/diploma/detalle/'
             style: button
             icon: dribbble
-            new_window: false
+            new_window: true
             no_follow: false
   - section_id: latest-posts
     type: section_posts
