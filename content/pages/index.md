@@ -74,6 +74,13 @@ sections:
           I've been given the opportunity to work with graphic designers, data
           analysts, backend and frontend developers for a major web project, and
           I don't think I can make it without an agile methodology like SCRUM.
+        actions:
+          - label: lorem-ipsum
+            url: '#'
+            style: link
+            icon: dribbble
+            new_window: false
+            no_follow: false
   - section_id: latest-posts
     type: section_posts
     title: Latest from the Blog
