@@ -6,8 +6,14 @@ sections:
     type: section_hero
     title: 'Hello, World! My name is Emilio Sánchez Ramírez'
     content: >
-      I am a Frontend Web Developer, in constant learning, and a Platzi Master
-      Student C8.
+      I'm a Front End Developer specialized in JavaScript & React.js, currently
+      sharpening my skills along with Platzi Master program & project working
+      with a team of nearly 100 developers and counting.
+
+
+      With experience leading large teams as a Technical Leader for the cashless
+      payment system responsible for the most iconic massive events in México
+      from 2019 to 2020.
     actions:
       - label: Let's talk
         url: /contact
@@ -29,24 +35,21 @@ sections:
     grid_items:
       - title: HTML & CSS
         content: >
-          I've been following the Web Development School learning path at
-          Platzi, and from its past a hundred courses (I've taken almost 80) I
-          have been able to learn the fundamentals of HTML & CSS.
+          I've followed the Web Development School learning path at Platzi and
+          from its over a hundred courses (I've taken almost 80 of them!) I have
+          been able to learn the fundamentals and some secrets and peculiarities
+          of HTML5 & CSS3.
+
+
+          From CSS Flexbox, Grid and Specificity to Semantic HTML and its
+          accessibility and SEO-positioning features.
+
+
+          Everyone's path is different, I'm just really glad I started from the
+          beginning.
         actions:
           - label: Certifications
             url: 'https://platzi.com/p/emlez/'
-            style: button
-            icon: dribbble
-            new_window: true
-            no_follow: false
-      - title: Git & GitHub
-        content: >
-          I don't think software development would work without these version
-          control tools, and that's why I've been sharpening my Git skills even
-          though an IDE makes it easier than ever to get started.
-        actions:
-          - label: Git Certification
-            url: 'https://platzi.com/p/emlez/curso/1557-git-github/diploma/detalle/'
             style: button
             icon: dribbble
             new_window: true
@@ -63,11 +66,50 @@ sections:
           thing is that I can always keep on learning because of how inmense
           this technology is.
         title: JavaScript
+        actions:
+          - label: JavaScript Challenge Phase 1
+            url: >-
+              https://platzi.com/p/emlez/curso/2503-jschallenge-fase1/diploma/detalle/
+            style: button
+            icon: dribbble
+            new_window: true
+            no_follow: false
+          - label: JavaScript Challenge Phase 2
+            url: >-
+              https://platzi.com/p/emlez/curso/2610-jschallenge-fase2/diploma/detalle/
+            style: button
+            icon: dribbble
+            new_window: true
+            no_follow: false
+      - title: Git & GitHub
+        content: >
+          I don't think software development would work, as good as it does,
+          without these version control tools, and that's why I've been
+          sharpening my Git skills even though an IDE makes it easier than ever
+          to get started.
+        actions:
+          - label: Git Certification
+            url: 'https://platzi.com/p/emlez/curso/1557-git-github/diploma/detalle/'
+            style: button
+            icon: dribbble
+            new_window: true
+            no_follow: false
       - title: SCRUM
         content: >
-          I've been given the opportunity to work with graphic designers, data
-          analysts, backend and frontend developers for a major web project, and
-          I don't think I can make it without an agile methodology like SCRUM.
+          I've worked with Graphic Designers, Data Analysts, Back End and Front
+          End developers for a major web project, and I don't think I can make
+          it without an agile methodology like SCRUM.
+
+
+          With it, we've managed to interact and make amazing progress on our
+          plans, even when we are working from 3 different time zones.
+        actions:
+          - label: SCRUM Certification
+            url: 'https://platzi.com/p/emlez/curso/1750-scrum/diploma/detalle/'
+            style: button
+            icon: dribbble
+            new_window: true
+            no_follow: false
   - section_id: latest-posts
     type: section_posts
     title: Latest from the Blog
