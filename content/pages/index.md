@@ -56,9 +56,10 @@ sections:
             no_follow: false
       - title: Git & GitHub
         content: >
-          I don't think software development would work without these version
-          control tools, and that's why I've been sharpening my Git skills even
-          though an IDE makes it easier than ever to get started.
+          I don't think software development would work, as good as it does,
+          without these version control tools, and that's why I've been
+          sharpening my Git skills even though an IDE makes it easier than ever
+          to get started.
         actions:
           - label: Git Certification
             url: 'https://platzi.com/p/emlez/curso/1557-git-github/diploma/detalle/'
