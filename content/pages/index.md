@@ -77,7 +77,7 @@ sections:
             icon: dribbble
             new_window: true
             no_follow: false
-          - label: lorem-ipsum
+          - label: JavaScript Challenge Phase 2
             url: '#'
             style: link
             icon: dribbble
