@@ -2,7 +2,7 @@
 title: "Practical JS \U0001F49B"
 date: '2021-09-27'
 thumb_image: /images/Practical-JavaScript.png
-image: /images/practical js.png
+image: /images/Practical-Javascript.png
 seo:
   title: Practical JavaScript
   description: This is my take on four math workshops using JavaScript

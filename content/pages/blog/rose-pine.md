@@ -1,8 +1,8 @@
 ---
 title: Contributing to Open Source through themes
 date: '2022-04-08'
-thumb_image: images/master-welcome.jpg # Add thumb image
-image: images/master-welcome.jpg # Add main image
+thumb_image: /images/rose-pine.png
+image: /images/rose-pine-main.png
 seo:
     title: Contributing to Open Source through themes
     description: How I contributed to Open Source through color themes
@@ -17,7 +17,7 @@ seo:
           value: How I contributed to Open Source through color themes
           keyName: property
         - name: 'og:image'
-          value: images/master-welcome.jpg # Add thumb image
+          value: /images/rose-pine.png
           keyName: property
           relativeUrl: true
         - name: 'twitter:card'
@@ -27,12 +27,12 @@ seo:
         - name: 'twitter:description'
           value: How I contributed to Open Source through color themes
         - name: 'twitter:image'
-          value: images/master-welcome.jpg # Add thumb image
+          value: /images/rose-pine.png
           relativeUrl: true
 layout: post
-subtitle: 'Fail fast, learn fast'
-thumb_image_alt: Platzi Master Cohort 8 welcome zoom call. # Add thumb image alt
-image_alt: Platzi Master Cohort 8 welcome zoom call. # Add main image alt
+subtitle: 'Soho vibes for JSON Viewer'
+thumb_image_alt: Rosé Pine theme palette
+image_alt: Rosé Pine theme for JSON Viewer
 ---
 
 I'm going to say it, I never thought I would be able to contribute to Open Source. It felt like this vast sea of projects was not meant to be open. At least not for me. Not with the experience or knowledge I could contribute.
@@ -72,4 +72,4 @@ Now, I'm happy to share that my first ever contribution to Open Source was the t
 
 Check out Rosé Pine's [theme](https://rosepinetheme.com/) if you want to try it out.
 
-Here's a link to my contribution for JSON Viewer: [GitHub's repo](https://github.com/emlez/json-viewer).
+Here's my contribution for JSON Viewer: [GitHub's repo](https://github.com/emlez/json-viewer).
