@@ -47,7 +47,7 @@ I kept founding setbacks, and I kept finding ways to improve.
 But none of that helped me to contribute to Open Source.
 At least not until I found something I care so much about.
 
-Themes.
+Themes ✨
 
 Yep, you might be right, this can be an unnecessary project, I mean, you don't "need" a theme to code better or faster, but it's something I've always taken the time to set up.
 Like, I couldn't work on my machine until everything was in dark mode. Or how my way to make friends on Platzi Master was by sharing theme recommendations.
@@ -56,7 +56,20 @@ I know you know where this is going, and that was my way in.
 Just embrace that thing that you care the most about, it doesn't have to be super complex or even something you completely and utterly love. It just needs to be something you can relate to and that you want to spend some time on improving.
 And that's what I'm going to do.
 
-At this very moment, I'm writing this, I'm just halfway through my PR to add this implementation to the theme's repo.
+At this very moment, I'm writing this, I'm halfway through my PR to add this implementation to the theme's repo.
 And I constantly feel like I'm missing something or that someone else is going to chime in and beat me with a better way to do it.
 But even though I might not be the very best at it, I'm going to try.
 And that's all I know for now. Will keep you posted.
+
+_Edit on 2022-04-08_: Kind of panicked when I couldn't find a repo to ask for a PR. Even wrote them a tweet asking for some guidance.
+
+Glad to say I did it.
+Probably minutes away from receiving a direct link to the repo I was looking for.
+
+![my-pr](https://user-images.githubusercontent.com/64607766/162589267-6df265ac-4760-4845-bc28-3316b6f10d4f.png)
+
+Now, I'm happy to share that my first ever contribution to Open Source was the theme I use daily on almost every piece of software. And even happier to say that, even in more apps thanks to my contribution.
+
+Check out Rosé Pine's [theme](https://rosepinetheme.com/) if you want to try it out.
+
+Here's a link to my contribution for JSON Viewer: [GitHub's repo](https://github.com/emlez/json-viewer).
