@@ -34,7 +34,7 @@
             }
         ],
         "logo_img": "/images/emlez-logo.png",
-        "logo_img_alt": "emlez logo"
+        "logo_img_alt": "emlez web dev logo"
     },
     "footer": {
         "has_social": true,
