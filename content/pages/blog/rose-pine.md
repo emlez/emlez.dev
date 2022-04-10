@@ -2,7 +2,7 @@
 title: Contributing to Open Source through themes
 date: '2022-04-08'
 thumb_image: /images/rose-pine.png
-image: /images/rose-pine-main.png
+image: /images/rose-pine.png
 seo:
     title: Contributing to Open Source through themes
     description: How I contributed to Open Source through color themes

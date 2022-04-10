@@ -70,5 +70,7 @@ Being able to show and filter the job offers that might apply to them.
 - Learn and apply a new tech stack to deliver a better product
 - Better communicate, give and receive feedback, and mentor others
 
+[Our repository on GitHub](https://github.com/Platzi-Master-C8/gethired-jobplacement-salaries-frontend).
+
 [See the project live!](https://salaries.get-hired.work/)
 

@@ -4,7 +4,7 @@ subtitle: My contribution to Rosé Pine theme
 date: '2022-04-09'
 thumb_image: /images/rose-pine.png
 thumb_image_alt: Rosé Pine theme palette
-image: /images/rose-pine-main.png
+image: /images/rose-pine.png
 seo:
   title: Rosé Pine theme for JSON Viewer
   description: My contribution to Rosé Pine theme
