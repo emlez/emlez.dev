@@ -2,7 +2,7 @@
     "title": "emlez.dev",
     "path_prefix": "/",
     "color_scheme": "dark",
-    "accent_color": "pink",
+    "accent_color": "violet",
     "header": {
         "title": "emlez.dev",
         "has_nav": true,
@@ -82,5 +82,5 @@
         ]
     },
     "domain": "https://emlez.netlify.app",
-    "favicon": "/images/icons8-code-48.png"
+    "favicon": "/images/favicon.png"
 }

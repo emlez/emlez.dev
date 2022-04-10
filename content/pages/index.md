@@ -6,14 +6,9 @@ sections:
     type: section_hero
     title: 'Hello, World! My name is Emilio Sánchez Ramírez'
     content: >
-      I'm a Front End Developer specialized in JavaScript & React.js, currently
-      sharpening my skills along with Platzi Master program & project working
-      with a team of nearly 100 developers and counting.
+      I'm a Frontend Web Developer currently working at TryNow, as an Implementation Engineer bringing Try Before You Buy software for e-commerce.
 
-
-      With experience leading large teams as a Technical Leader for the cashless
-      payment system responsible for the most iconic massive events in México
-      from 2019 to 2020.
+      Always interested in opportunities that allow me to grow personally and professionally, help others, and build a community around learning.
     actions:
       - label: Let's talk
         url: /contact
@@ -63,7 +58,7 @@ sections:
 
 
           That's probably the best way to describe my journey, and the greatest
-          thing is that I can always keep on learning because of how inmense
+          thing is that I can always keep on learning because of how immense
           this technology is.
         title: JavaScript
         actions:
