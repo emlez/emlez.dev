@@ -8,6 +8,7 @@ sections:
     content: >
       I'm a Frontend Web Developer currently working at TryNow, as an Implementation Engineer bringing Try Before You Buy software for e-commerce.
 
+
       Always interested in opportunities that allow me to grow personally and professionally, help others, and build a community around learning.
     actions:
       - label: Let's talk
