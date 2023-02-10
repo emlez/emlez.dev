@@ -1,6 +1,6 @@
 ---
 title: About me
-subtitle: Who is Emilio?
+subtitle: Probably a bit longer than an elevator pitch
 image: /images/twitter.png
 image_alt: emlez web developer banner with QR code
 seo:
@@ -35,8 +35,9 @@ layout: page
 > the ability to learn is a skill,
 > the willingness to learn is a choice"
 
-I'm currently interested in an opportunity as a Frontend Web Developer, specializing in JavaScript, that allows me to grow professionally, help others and build a community around learning. 
+I'm a Software Engineer at TryNow, using my Front End development knowledge to bring Try Before You Buy software to 40+ Shopify e-commerce stores.
+Always interested in opportunities that allow me to grow personally and professionally, help others, and build a community around learning.
 
-Recently, I dived into learning Computer Science, forming myself in software development, proficiency in English in professional environments, and soft skills in Platzi, the best Spanish-speaking e-learning platform. Who, recently, selected me to form part of the top 1% student's program, called Platzi Master, taking my practical learning to peak level.
+In 2020, I dived into learning Computer Science, forming myself in software development, proficient in English in professional environments, and soft skills in Platzi, the best Spanish-speaking e-learning platform. Who recently selected to form part of the top 1% student program, called Platzi Master, taking my practical learning to peak level.
 
-As a mechanical engineer, I initiated myself in the path of technology and automation as a project manager at an engineering solutions enterprise while also working at a seasonal job in music events. Which in due course led me to a position as Technical Leader at the FinTech responsible for the most emblematic mass events in México in 2019 and 2020.
+As a mechanical engineer, I initiated myself in the path of technology and automation as a project manager at an engineering solutions enterprise while working at a seasonal job in music events, which in due course led me to a position as Technical Leader at the FinTech responsible for the most emblematic mass events in México in 2019 and 2020.
