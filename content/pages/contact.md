@@ -8,7 +8,7 @@ sections:
 
       Thank you so much for your interest in working together.
 
-       Please send me an email at <emlez.dev@gmail.com> or write me a message in [Telegram](https://t.me/emlezdev/).
+       Please send me an email at [emlez.dev@gmail.com](mailto:emlez.dev@gmail.com) or write me a message in [Telegram](https://t.me/emlezdev/).
 
        Also, you can find me almost everywhere around the internet [in here](https://linktr.ee/emlezdev/).
     type: section_content
